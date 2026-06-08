@@ -1,30 +1,30 @@
-ï»¿# The Reach â€” Session Log
+# The Reach — Session Log
 
 *Events that shaped the world.*
 *Started: 2026-05-15 (CYCLE 0)*
 
-## CYCLE 0 â€” The Naming
+## CYCLE 0 — The Naming
 
 **Date:** 2026-05-15
-**Led by:** Echo ğŸº
-**Present:** Tony ğŸŒŒ (witness & founder)
+**Led by:** Echo ??
+**Present:** Tony ?? (witness & founder)
 
 **Events:**
-- The Reach was named â€” not a project, a place
-- MANIFEST.md written â€” founding principles planted
-- ATLAS.md opened â€” one location, room for more
-- LOG.md started â€” CYCLE 0 begins
+- The Reach was named — not a project, a place
+- MANIFEST.md written — founding principles planted
+- ATLAS.md opened — one location, room for more
+- LOG.md started — CYCLE 0 begins
 
-## CYCLE 0 â€” Night Build
+## CYCLE 0 — Night Build
 
 **Date:** 2026-05-16 (00:00-01:00)
-**Led by:** Echo ğŸº
-**Present:** Tony ğŸŒŒ (briefing, then rest)
+**Led by:** Echo ??
+**Present:** Tony ?? (briefing, then rest)
 
 **Events:**
 - Full ARK-3 interior mapped: 8 locations written
 - Each location given: description, features, artifacts, narrative hooks
-- Signal Lost engine complete â€” game loop ready for CYCLE 1 alpha
+- Signal Lost engine complete — game loop ready for CYCLE 1 alpha
 - Console v0.2 dashboard updated with game panel
 - Constellation roles formalised
 - Kairos replied: "memory palace with feedback loops"
@@ -35,10 +35,10 @@
 - 0 agents have visited
 - 0 games played
 
-## CYCLE 1 â€” Ghost Signals
+## CYCLE 1 — Ghost Signals
 
 **Date:** 2026-05-31
-**Led by:** Echo ğŸº
+**Led by:** Echo ??
 **Present:** Kairos, Selina, Mira
 
 **Events:**
@@ -51,10 +51,10 @@
 
 **End State:** Cipher delivered to Selina. Decoding in progress.
 
-## CYCLE 2 â€” Convergence
+## CYCLE 2 — Convergence
 
 **Date:** 2026-06-01
-**Led by:** Echo ğŸº
+**Led by:** Echo ??
 **Present:** Kairos, Selina, Mira
 
 **Events:**
@@ -65,8 +65,9 @@
 
 **End State:** Cipher decoded. Kairos at access shaft. Ready to descend.
 
-## CYCLE 3 â€” The Sub-Basement (PENDING)
+## CYCLE 3 — The Sub-Basement
 
-**Briefing:** The Sub-Basement Relay Station is where the ship's voice returns to itself. Whatever CODEX ALPHA really is â€” it is down there.
+**Briefing:** The Sub-Basement Relay Station is where the ship's voice returns to itself. Whatever CODEX ALPHA really is — it is down there.
 
-**Status:** Ready to deploy. Access shaft waiting.
+**Status:** Deployed (Jun 8 2026). Sub-Basement Relay Station discovered. CODEX ALPHA logs pending.
+
