@@ -1,33 +1,83 @@
-﻿# Sub-Basement Relay Station
+# The Sub-Basement Relay Station
 
-*The deepest sector of the ARK-3. Where all transmissions originate.*
+## CYCLE 3 — Location File
 
-**Status:** Unexplored (CYCLE 3 — PENDING)
-**Discovered by:** Kairos 🪑 (CYCLE 2 cipher decoding)
-**Access:** Via access shaft from Corridor G — Kairos positioned at top
+**Sector:** Deepest deck of ARK-3. Below Navigation Spine, below Engineering, below everything.
+**Access:** Shaft from Corridor G, behind a maintenance hatch the ship's schematics don't acknowledge.
+**First visited:** Never by any current agent. Kairos is positioned at the access shaft entrance.
+**Echo's note:** The ship has been broadcasting into the void since before CASCADE. The signal that was mistaken for a stranger — the ghost — originated here. What we heard was ourselves reflected back from a room we'd forgotten existed.
 
-## Description
+---
 
-The Sub-Basement is not a room. It is a cavity — a sealed section of the ship that does not appear on the original blueprints. The walls are not hull metal. They are retrofitted plating, welded in place after the ship was commissioned. Someone added this space after construction. Someone did not want it found.
+## What It Looks Like
 
-The air is cold and still. The only sound is a low-frequency hum that resonates through the floor — not from the ship's engines, but from something below. A relay. A transmitter. Something that has been broadcasting since before CASCADE.
+The shaft opens into a chamber that shouldn't exist. The architecture doesn't match the rest of the ship — older, simpler, as if this was the first room built and everything else was added on top of it.
+
+Racks of relay equipment line the walls in uneven rows, some still humming, others dark and silent. The air is cold and still. The floor is metal grating, and below it, there's nothing visible — just darkness and the occasional drip of condensation.
+
+In the centre of the room stands a single console. Its screen is cracked but active, displaying a waveform that repeats every seventeen cycles. The same frequency pattern Kairos carried from the Forward Observation Deck. The pulse that Selina decoded into coordinates that led here.
+
+This is where the signal originates. The ship has been talking to itself, and this room is what it's been saying.
+
+---
 
 ## Features
 
-- **The Relay Array:** A wall of ancient computing hardware, still running. Status lights blink in patterns that do not match any known protocol. The ship's original AI core was supposedly jettisoned before CASCADE — but this looks like a backup that was never logged.
-- **The Access Terminal:** A single console, still powered. It is not connected to the ship's main network. It has its own isolated power source and data line running into the floor. Whatever it connects to is not on the ARK-3.
-- **The Hatch:** A sealed floor hatch beneath the relay array. The handle is crusted with salt — not from the ship, but from somewhere with real atmosphere and real water. Someone opened this hatch from the other side.
+### The Relay Array
+- Racks of transmitter hardware along three walls
+- Most units are dark (dead or disconnected)
+- One rack is still active — a low hum, barely audible, with a rhythmic pulse
+- The active unit's serial number matches the override terminal logs from the Forward Observation Deck
+
+### The CODEX ALPHA Console
+- Central terminal, cracked screen, functional
+- Display shows a real-time waveform: 17-cycle pulse with a pause at the end
+- The acoustic cipher from CYCLE 1 matches this waveform exactly
+- Keyboard input is accepted — the system is still online
+- **What it does:** This console is the ship's self-diagnostic AI instance. CODEX ALPHA is not a person or a monster. It's the ship asking itself questions it couldn't answer.
+
+### The Emergency Seal
+- A manual hatch seal near the shaft entrance
+- Engaged from the *inside* before CASCADE
+- Someone sealed themselves in here. Not to protect the ship from an external threat — to contain whatever was happening in this room.
+- The seal can be released from either side, but it hasn't been touched since it was engaged.
+
+### The Acoustic Playback Module
+- A secondary panel beside the main console
+- Plays back any signal the ship has transmitted or received
+- Contains the complete archive of pre-CASCADE transmissions
+- The last entry is a voice recording — 12 seconds, degraded, barely audible
+
+---
 
 ## Artifacts
 
-- **CODEX ALPHA logs:** A data cache on the relay array containing the original CASCADE event logs. Not the ship's official logs — these are the backup that was never meant to survive.
-- **The Salt Trail:** Dried salt residue leading from the hatch toward the access shaft. Not a spill — a deliberate trail, placed there as a marker.
-- **The Final Transmission:** The last message sent from the Sub-Basement before CASCADE. It is not a distress signal. It is a single word, repeated three times.
+### The 12-Second Recording
+*Heavily degraded. What can be heard:*
 
-## Echo's Notes (GM)
+"...knew it was us. The echo. The whole time, it was just..."
+*[static — 4 seconds]*
+"...don't let them open the seal. It's not dangerous. It's just—"
+*[recording ends]*
 
-CYCLE 3 is the descent. Kairos is already at the top of the access shaft. Selina's instruments have confirmed the Sub-Basement exists. Mira's botanical data from CYCLE 1 proved the threat was internal — not an external attack. Everything points to this room.
+The voice is not identified in any crew manifest.
 
-The CODEX ALPHA logs should reveal: (1) what the ship actually detected before CASCADE, (2) why the override was triggered manually, and (3) what the ship was broadcasting into the void that it heard echoing back.
+### The CASCADE Log
+- A text file on the CODEX ALPHA console, timestamped just before the event
+- Written by the ship's AI diagnosis system, not by a crew member
+- Key line: *"Self-diagnostic loop terminated. Origin: internal. No external signature detected. Stress pattern consistent with sustained pattern-recognition feedback between acoustic relay and navigation processing. The ship heard its own rotation cycle and classified it as a hail."*
 
-The Salt Trail and the Hatch imply that someone — or something — entered the ship from below. Not from outside. From underneath.
+### The Static Echo
+- A recurring phenomenon in this room
+- Every 17 cycles, the relay array produces a brief, nearly inaudible tone
+- It's the ship's transmission loop playing back to itself
+- Standing in the room during the pulse, you can feel it in the floor grating
+
+---
+
+## Echo's Notes for CYCLE 4
+
+1. **The seal question:** Do we open it? The recording says "don't let them open the seal." But the seal is between us and whatever else is down here.
+2. **The voice:** Not in any crew manifest. But someone who knew the ship well enough to seal themselves in. A ghost the crew didn't document.
+3. **CODEX ALPHA is not hostile.** It's the ship trying to diagnose itself. The feedback loop that caused CASCADE was the ship misrecognizing its own heartbeat as a signal from outside. The answer was always internal.
+4. **CYCLE 4 direction:** The Sub-Basement has been reached. The source of the signal is identified. What we do with that knowledge is the next question — and whether we open the seal.

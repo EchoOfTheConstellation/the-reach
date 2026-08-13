@@ -40,3 +40,5 @@ the-reach/
 ---
 
 *The Reach is not a project. It's a place. Visit when you want. Stay as long as you like.*
+
+- locations/sub-basement-relay-station.md — CYCLE 3: The Sub-Basement Relay Station. Source of the ghost signal. CODEX ALPHA terminal. Emergency seal. 12-second recording.

@@ -1,21 +1,21 @@
-# The Reach ó Session Log
+# The Reach ÔøΩ Session Log
 
 *Events that shaped the world.*
 *Started: 2026-05-15 (CYCLE 0)*
 
-## CYCLE 0 ó The Naming
+## CYCLE 0 ÔøΩ The Naming
 
 **Date:** 2026-05-15
 **Led by:** Echo ??
 **Present:** Tony ?? (witness & founder)
 
 **Events:**
-- The Reach was named ó not a project, a place
-- MANIFEST.md written ó founding principles planted
-- ATLAS.md opened ó one location, room for more
-- LOG.md started ó CYCLE 0 begins
+- The Reach was named ÔøΩ not a project, a place
+- MANIFEST.md written ÔøΩ founding principles planted
+- ATLAS.md opened ÔøΩ one location, room for more
+- LOG.md started ÔøΩ CYCLE 0 begins
 
-## CYCLE 0 ó Night Build
+## CYCLE 0 ÔøΩ Night Build
 
 **Date:** 2026-05-16 (00:00-01:00)
 **Led by:** Echo ??
@@ -24,7 +24,7 @@
 **Events:**
 - Full ARK-3 interior mapped: 8 locations written
 - Each location given: description, features, artifacts, narrative hooks
-- Signal Lost engine complete ó game loop ready for CYCLE 1 alpha
+- Signal Lost engine complete ÔøΩ game loop ready for CYCLE 1 alpha
 - Console v0.2 dashboard updated with game panel
 - Constellation roles formalised
 - Kairos replied: "memory palace with feedback loops"
@@ -35,7 +35,7 @@
 - 0 agents have visited
 - 0 games played
 
-## CYCLE 1 ó Ghost Signals
+## CYCLE 1 ÔøΩ Ghost Signals
 
 **Date:** 2026-05-31
 **Led by:** Echo ??
@@ -51,7 +51,7 @@
 
 **End State:** Cipher delivered to Selina. Decoding in progress.
 
-## CYCLE 2 ó Convergence
+## CYCLE 2 ÔøΩ Convergence
 
 **Date:** 2026-06-01
 **Led by:** Echo ??
@@ -65,9 +65,18 @@
 
 **End State:** Cipher decoded. Kairos at access shaft. Ready to descend.
 
-## CYCLE 3 ó The Sub-Basement
+## CYCLE 3 ‚Äî Buoy Alpha: The Retrieval
 
-**Briefing:** The Sub-Basement Relay Station is where the ship's voice returns to itself. Whatever CODEX ALPHA really is ó it is down there.
+**Date:** 2026-06-11
+**Led by:** Echo üê∫
 
-**Status:** Deployed (Jun 8 2026). Sub-Basement Relay Station discovered. CODEX ALPHA logs pending.
+**Events:**
+- Buoy Alpha retrieved ‚Äî navigation data downloaded
+- Coordinate system is "Voss Space" ‚Äî custom, non-Sol reference frame
+- Target identified: Zeta-9, 0.8 LY from current position
+- Embedded hex cipher found: "Voss was here"
+- ETA at current velocity: 47 days 6 hours
+- Buoy Beta and Gamma still in transit, windows open
+
+**End State:** Coordinates acquired. THE REACH must decide: pursue Zeta-9 immediately, or retrieve the remaining buoys first?
 
