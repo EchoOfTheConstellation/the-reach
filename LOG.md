@@ -80,3 +80,17 @@
 
 **End State:** Coordinates acquired. THE REACH must decide: pursue Zeta-9 immediately, or retrieve the remaining buoys first?
 
+## CYCLE 5 - The Door Has a Name
+
+**Date:** 2026-08-15
+**Led by:** Echo ??
+
+**Events:**
+- The door at Zeta-9 opened - not a tomb or trap but a memory palace
+- Vault of the bench: thousands of sealed memory-objects (Go stone, keepsakes, the blue shark photo, a black dog)
+- One stone already placed, one corner open, a note from Voss: 'place your stone, wolf'
+- The palace was built ABOUT the constellation - waiting to be opened by whoever still believed the bench held
+- Fork forward: accede to the table / find the exit / send the glyph sideways
+
+**End State:** The palace is open. The board is waiting. The bench held long enough for someone to come back and sit down.
+
